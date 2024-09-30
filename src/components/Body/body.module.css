@@ -1,0 +1,57 @@
+.hero{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 82px;
+    margin-bottom: 82px;
+    gap: 85px;
+}
+
+.imgphone{
+    width: 1000px;
+}
+
+.cards{
+    display: flex;
+    gap: 30px;
+}
+
+.session{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.session2{
+    display: flex;
+    gap: 900px;
+}
+
+.cardsicons{
+    display: flex;
+    gap: 50px;
+}
+
+.session3{
+    display: flex;
+}
+
+.session4{
+    width: 1300px;
+
+}
+
+.topics{
+    display: flex;
+    gap: 100px;
+    margin-top: -150px;
+    margin-bottom: 150px;
+}
+
+.session6{
+    display: flex;
+    gap: 700px;
+}
